@@ -39,7 +39,7 @@ jQuery(document).ready(function ($) {
 	   jQuery('.navbar-fixed-top').removeClass('menu-scroll');
 	  }
 	});	
- // Scroll up 
+ // Scroll up to above
 
     $(window).scroll(function(){
         if ($(this).scrollTop() > 600) {
